@@ -2,8 +2,9 @@
 
 Name: Qiao Xu
 Student ID:697405
-Computer Processor:11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, 2611 Mhz, 4 Core(s), 8 Logical Processor(s)
-System Model	Inspiron 14 5410. x64-based PC
+Computer Processor:11th Gen Intel(R) Core(TM).
+i5-11300H @ 3.10GHz, 2611 Mhz, 4 Core(s), 8 Logical Processor(s).
+System Model	Inspiron 14 5410. x64-based PC.
 OS Name	Microsoft Windows 11 Pro
 
 ------------
